@@ -1,4 +1,4 @@
-package com.example.SpringSecurityWorkshopTwo;
+package com.example.SpringSecurityWorkshopTwo.model;
 
 public class Student {
     private int id;
